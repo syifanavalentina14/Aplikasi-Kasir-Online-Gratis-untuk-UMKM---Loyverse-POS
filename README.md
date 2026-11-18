@@ -1,0 +1,2 @@
+# Aplikasi-Kasir-Online-Gratis-untuk-UMKM---Loyverse-POS
+Loyverse POS adalah aplikasi kasir online gratis berbasis cloud untuk UMKM seperti toko ritel, kafe, dan restoran. Dilengkapi fitur pencatatan transaksi cepat, manajemen stok real-time, laporan penjualan, program loyalitas pelanggan, serta dukungan printer struk dan barcode scanner guna mempermudah operasional bisnis langsung dari smartphone.
